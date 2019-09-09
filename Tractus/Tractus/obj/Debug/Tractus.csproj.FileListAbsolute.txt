@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\Tractus\Tractus\bin\Debug\Tractus.exe.config
+C:\Users\david\source\repos\Tractus\Tractus\bin\Debug\Tractus.exe
+C:\Users\david\source\repos\Tractus\Tractus\bin\Debug\Tractus.pdb
+C:\Users\david\source\repos\Tractus\Tractus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\source\repos\Tractus\Tractus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\source\repos\Tractus\Tractus\obj\Debug\Tractus.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Tractus\Tractus\obj\Debug\Tractus.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Tractus\Tractus\obj\Debug\Tractus.csproj.CopyComplete
+C:\Users\david\source\repos\Tractus\Tractus\obj\Debug\Tractus.exe
+C:\Users\david\source\repos\Tractus\Tractus\obj\Debug\Tractus.pdb
